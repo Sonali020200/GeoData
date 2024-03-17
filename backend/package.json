@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "set CGO_ENABLED=1 && go run main.go"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
