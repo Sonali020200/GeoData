@@ -9,11 +9,7 @@ This is a fullstack web application built to allow users to manage and visualize
 - [Features](#features)
 - [Technical Stack](#technical-stack)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Evaluation Criteria](#evaluation-criteria)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
